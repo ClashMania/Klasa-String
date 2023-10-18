@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\bin\Debug\Klasa string.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\bin\Debug\Klasa string.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\bin\Debug\Klasa string.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\obj\Debug\Klasa string.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\obj\Debug\Klasa string.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\obj\Debug\Klasa string.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\obj\Debug\Klasa string.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa string\obj\Debug\Klasa string.pdb
